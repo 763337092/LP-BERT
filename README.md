@@ -13,7 +13,7 @@ The code is implemented with PyTorch. Requirments:
 &emsp;3. transformers=4.2.1  
 &emsp;4. numpy=1.17.2  
 &emsp;5. pandas=0.25.1  
-&emsp;6. sklearn=0.21.3
+&emsp;6. sklearn=0.21.3  
 &emsp;6. tqdm=4.52.0
 
 ## Reproduction of performance on WN18RR, UMLS and FB15k-237
