@@ -1,5 +1,6 @@
 # LP-BERT: Multi-task Pre-training Knowledge Graph BERT for Link Prediction
 This repository provides evaluation codes of LP-BERT for  link prediction task. The idea of PLNLP is described in the following article:
+>**Multi-task Pre-training Language Model for Semantic Network Completion(https://dl.acm.org/doi/abs/10.1145/3627704)**
 >**LP-BERT: Multi-task Pre-training Knowledge Graph BERT for Link Prediction (https://arxiv.org/pdf/xx.pdf)**
 
 ![](./pics/image3-2new.png)
